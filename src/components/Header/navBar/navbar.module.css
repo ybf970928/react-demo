@@ -9,6 +9,8 @@
 .language{
     height: 100%;
     flex: 1;
+    display: flex;
+    align-items: center;
 }
 .language-icon{
     padding-right: 10px;
@@ -19,4 +21,7 @@
 .login {
     height: 100%;
     flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
